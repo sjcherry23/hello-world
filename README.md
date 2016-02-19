@@ -1,6 +1,6 @@
-## hello-world
+# hello-world
 
-#My Journey into R!!
+##My Journey into R!!
 
 My current goal is to learn how to analyse data using R as it will be a module on my MSc in Psychology Research Methods.
 
